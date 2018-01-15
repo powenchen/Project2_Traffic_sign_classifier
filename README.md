@@ -34,6 +34,7 @@ The goals / steps of this project are the following:
 [image18]: ./charts/german_result3.png ""
 [image19]: ./charts/german_result4.png ""
 [image20]: ./charts/german_result5.png ""
+[image21]: ./GermanSigns/signs.png ""
 
 ### Data Set Summary & Exploration
 
@@ -143,8 +144,7 @@ I'm using a learning rate of 0.001 in my model, with batch size of 128 and 30 ep
 
 Here are six German traffic signs that I found on the web:
 
-![alt text][image9] ![alt text][image10] ![alt text][image11] 
-![alt text][image12] ![alt text][image13] ![alt text][image14]
+![alt text][image21]
 
 
 #### 2. The predictions of our models.
