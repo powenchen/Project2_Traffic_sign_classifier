@@ -154,14 +154,14 @@ Here are the results of the prediction:
 | Image			        |     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | Yield 	      		| Yield 	   									| 
-| Speed limit 30km/h	| Speed limit 20km/h							|
+| Speed limit 30km/h	| Roundabout mandatory							|
 | Caution				| Caution										|
 | Stop Sign      		| Stop sign   									| 
 | Slippery Road			| Slippery Road      							|
 | Turn right ahead 		| Turn right ahead 				 				|
 
 
-The model was able to correctly guess 5 of the 6 traffic signs, which gives an accuracy of 83.33%. The only error is a misclassification from 30km/h to 20km/h (and the 2nd suggestion is 30 km/h with 18%).
+The model was able to correctly guess 5 of the 6 traffic signs, which gives an accuracy of 83.33%. The only error is a misclassification from 30km/h to 20km/h (and the 3rd suggestion is 30 km/h with 12%).
 
 #### 3. Results on German traffic signs given by our model
 
